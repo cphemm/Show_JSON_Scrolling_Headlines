@@ -1,0 +1,27 @@
+body {
+    /*font-family:sans-serif;*/
+    /*width: 100%;*/
+}
+
+.title {
+    text-align: center;
+}
+
+ul {
+    list-style: square;
+    font-size: 18px;
+}
+
+li {
+    padding:10px 0;
+}
+
+/*small {*/
+    /*display:block;*/
+/*}*/
+
+#feed {
+    background: white;
+    height: 550px;
+    overflow: auto;
+}
